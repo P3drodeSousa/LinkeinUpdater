@@ -1,2 +1,2 @@
-# LinkedIn Conenction Updater WIth Puppeteer 
+# LinkedIn Connections Updater WIth Puppeteer 
 
